@@ -115,8 +115,8 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '加入小仔Discord群',
-  HEO_SOCIAL_CARD_TITLE_2: '小仔DC群每個月會抽出總共300Robux的獎勵哦',
-  HEO_SOCIAL_CARD_TITLE_3: '點擊立即加入',
+  HEO_SOCIAL_CARD_TITLE_2: '',
+  HEO_SOCIAL_CARD_TITLE_3: '點擊立即加入,小仔DC群每個月會抽出總共300Robux的獎勵哦',
   HEO_SOCIAL_CARD_URL: 'https://discord.gg/3jQyBJfp2d',
 
   // *****  以下配置无效，只是预留开发 ****
