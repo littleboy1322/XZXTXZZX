@@ -7,8 +7,7 @@ const CONFIG = {
   HEO_SITE_CREATE_TIME: '2024-10-19', // 建站日期，用于计算网站运行的第几
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '感謝使用小仔系統下載中心!', url: 'https://0012310.xyz' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '感謝使用小仔系統下載中心!', url: 'https://0012310.xyz' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -115,7 +114,7 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '加入小仔Discord群“,
+  HEO_SOCIAL_CARD_TITLE_1: '加入小仔Discord群',
   HEO_SOCIAL_CARD_TITLE_2: '小仔DC群每個月會抽出總共300Robux的獎勵哦',
   HEO_SOCIAL_CARD_TITLE_3: '點擊立即加入',
   HEO_SOCIAL_CARD_URL: 'https://discord.gg/3jQyBJfp2d',
